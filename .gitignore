@@ -1,0 +1,16 @@
+# Raw data — download from Kaggle instead (see README)
+data/
+*.csv
+
+# Course-supplied material, not ours to publish
+brief/
+*.docx
+
+# macOS / R / editor noise
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.ipynb_checkpoints/
+__pycache__/
